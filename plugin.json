@@ -1,0 +1,14 @@
+{
+	"id": "adjust-data-bias",
+	"version": "0.0.1",
+	"meta": {
+		"label": "Adjust data bias",
+		"description": "Adjust the bias in your data",
+		"author": "Dataiku (Triveni GANDHI)",
+		"icon": "icon-puzzle",
+		"licenseInfo": "Apache Software License version 2",
+		"url": "https://www.dataiku.com/dss/plugins/info/adjust-data-bias.html",
+		"tags": ["Machine Learning"],
+    "supportLevel": "NOT_SUPPORTED"
+	}
+}
